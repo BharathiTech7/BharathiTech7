@@ -1,208 +1,138 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Doma%20Bharathi&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Doma Bharathi — Backend and Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1F,45:123B6D,100:06B6D4&height=190&section=header&text=Bharathi%20Reddy&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20in%20the%20Making&descSize=17&descAlignY=60" width="100%" alt="Bharathi Reddy — Backend Engineer in the Making" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+things+that+solve+real+problems;Java+%7C+Spring+Boot+%7C+Node.js;REST+APIs+%7C+Databases+%7C+Authentication;Learning+by+building%2C+breaking%2C+and+rebuilding" alt="Animated introduction" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot;Node.js+%2B+REST+APIs;Databases+%7C+Auth+%7C+Real-time+systems;Build.+Break.+Understand.+Rebuild." alt="Java and Spring Boot, Node.js and REST APIs, databases and real-time systems" />
 </a>
 
 <p>
-  <a href="https://linkedin.com/in/doma-bharathi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://domabharathi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/BharathiTech7"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/doma-bharathi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://domabharathi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/BharathiTech7"><img src="https://img.shields.io/badge/GitHub-BharathiTech7-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
 
----
+## `whoami`
 
-## 👋 A little about me
+**B.Tech CSE '27 · Backend & Full-Stack Development**
 
-> **“Most of what I know about software, I learned from things I built wrong first.”**
+I like understanding what happens *after* a button is clicked: APIs, databases, authentication, and the systems connecting them.
 
-I'm **Doma Bharathi**, a Computer Science and Engineering undergraduate at **RGMCET, Nandyal**, graduating in 2027. I enjoy building useful applications and understanding what makes them work behind the scenes—from API design and database modelling to authentication and real-time communication.
-
-I've completed **two internships** and built projects across backend and full-stack development. My current focus is writing better Java and Node.js code, strengthening my DSA fundamentals, and becoming an engineer who can contribute to real-world products.
-
-- 🎓 **B.Tech CSE** · CGPA **9.47/10**
-- 🧩 **200+ DSA problems** solved on LeetCode using Java
+- 💼 **2 internships completed**
+- 🧩 **200+ DSA problems** · Java
 - ☁️ **AWS Certified Cloud Practitioner**
-- 🛠️ Interested in backend systems, REST APIs, databases, authentication, and full-stack products
-- 🤝 In-Charge of **Cre8 Club** and Treasurer of the **IEEE Computer Society Student Chapter**
-- 🎯 Open to software engineering and backend development opportunities
+- 🎓 **CGPA: 9.47/10** · RGMCET
+- 🧭 Cre8 Club In-Charge · IEEE Computer Society Student Chapter Treasurer
 
-## 💼 Experience
-
-<details open>
-<summary><b>AI Automation & Systems Intern · Modern Mint</b> | Apr 2026 – Jun 2026</summary>
-
-- Built Claude Cowork automations using prompt engineering, scheduled to run every Monday.
-- Collected data from **100+ prospective users** interested in board games.
-- Contributed to authentication, landing-page functionality, and early product features while adapting to evolving requirements.
-
-</details>
-
-<details>
-<summary><b>Java Full Stack Developer Intern · Infosys Springboard</b> | Nov 2025 – Jan 2026</summary>
-
-- Built **SiteSurvey Pro**, an ISP site-survey application using Spring Boot, React, PostgreSQL, and JWT.
-- Developed **15+ REST APIs** for properties, buildings, floors, spaces, and checklists.
-- Implemented JWT authentication, role-based access control, password hashing, request validation, and a Controller–Service–Repository architecture.
-
-</details>
-
-## 🚀 Featured projects
+## ⚡ Built, not just bookmarked
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 [SkillSwap](https://github.com/BharathiTech7/skillswap-platform)
+### 🔁 SkillSwap
+**Peer learning · Real-time communication**
 
-**Real-Time Peer Learning Platform**
+A skill-exchange platform with live chat and browser-based video sessions.
 
-A platform for people to exchange skills, collaborate, and learn through live sessions.
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT`
 
-- 💬 Real-time messaging with Socket.io
-- 📹 Browser-based video sessions using Jitsi
-- 🔐 JWT authentication and bcrypt password hashing
-- 📈 Learning progress and session tracking
-
-**Stack:** React · Node.js · Express · MongoDB · Socket.io
-
-[🌐 Live demo](https://skillswap-connect.netlify.app/) · [💻 Source code](https://github.com/BharathiTech7/skillswap-platform)
+<a href="https://github.com/BharathiTech7/skillswap-platform">↗ Repository</a> · <a href="https://skillswap-connect.netlify.app/">Live demo</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 [DocSpot](https://github.com/BharathiTech7/Docspot)
+### 🩺 DocSpot
+**Healthcare · Appointment workflows**
 
-**Healthcare Appointment System**
+Doctor appointment booking with patient, doctor, and admin roles.
 
-A MERN application for patients to find doctors and manage appointments, with separate workflows for doctors and administrators.
+`React` `Node.js` `Express` `MongoDB` `REST APIs`
 
-- 🗓️ Appointment booking and scheduling
-- 🔐 Role-based access for patients, doctors, and admins
-- 🧩 15+ REST APIs
-- 🧪 Tested with 50+ test users and 100+ appointment requests
-
-**Stack:** React · Node.js · Express · MongoDB · JWT
-
-[🌐 Live demo](https://docspot-web.netlify.app/) · [💻 Source code](https://github.com/BharathiTech7/Docspot)
+<a href="https://github.com/BharathiTech7/Docspot">↗ Repository</a> · <a href="https://docspot-web.netlify.app/">Live demo</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 [SiteSurvey Pro](https://github.com/BharathiTech7/site-survey-tool-infosys-springboard)
+### 🏢 SiteSurvey Pro
+**ISP site surveys · Secure APIs**
 
-**ISP Site Survey Application**
+Multi-tier application for managing properties, buildings, floors, spaces, and checklists.
 
-A multi-tier application designed to help manage ISP site-survey information.
+`Java` `Spring Boot` `React` `PostgreSQL` `Spring Security`
 
-- 🏗️ Property, building, floor, space, and checklist APIs
-- 🔐 JWT authentication and role-based authorization
-- 🧱 Layered backend architecture and request validation
-
-**Stack:** Java · Spring Boot · React · PostgreSQL · Spring Security
-
-[💻 Source code](https://github.com/BharathiTech7/site-survey-tool-infosys-springboard)
+<a href="https://github.com/BharathiTech7/site-survey-tool-infosys-springboard">↗ Repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [College Enquiry Chatbot](https://github.com/BharathiTech7/College-Enquiry-Chatbot)
+### 🤖 College Enquiry Chatbot
+**College information · AI integration**
 
-**AI-Powered College Enquiry App**
+A chatbot for admissions, courses, and campus questions, powered by a Flask backend and Gemini API.
 
-A chatbot that responds to questions about admissions, courses, and campus facilities.
+`Python` `Flask` `Gemini API`
 
-- 💬 College-specific question answering
-- 🔌 Flask API endpoints
-- ✨ Gemini API integration with structured prompts
-
-**Stack:** Python · Flask · Gemini API
-
-[🌐 Live demo](https://college-enquiry-chatbot-qgo6.onrender.com/) · [💻 Source code](https://github.com/BharathiTech7/College-Enquiry-Chatbot)
+<a href="https://github.com/BharathiTech7/College-Enquiry-Chatbot">↗ Repository</a> · <a href="https://college-enquiry-chatbot-qgo6.onrender.com/">Live demo</a>
 
 </td>
 </tr>
 </table>
 
-## 🧰 Tech toolbox
+## 🧰 My stack, at a glance
 
 <div align="center">
 
-**Languages**
+**BACKEND FIRST**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c" alt="Java, JavaScript, TypeScript, Python, C" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask" alt="Java, Spring Boot, Node.js, Express, Python, Flask" />
 
-**Backend & APIs**
+**FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" alt="Node.js, Express, Spring Boot, Flask" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" alt="React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS" />
 
-**Frontend**
+**DATA & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS, Tailwind CSS" />
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,postman,docker,aws,vscode" alt="MongoDB, PostgreSQL, MySQL, Git, GitHub, Postman, Docker, AWS, VS Code" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,git,github,postman,docker" alt="MongoDB, PostgreSQL, MySQL, AWS, Git, GitHub, Postman, Docker" />
 
 </div>
 
-**Also working with:** REST APIs · JWT · RBAC · Socket.io · WebSockets · Spring Security · JPA/Hibernate · SQL · Maven · npm
+<sub>Also: REST APIs · JWT · RBAC · Socket.io · WebSockets · JPA/Hibernate · SQL · Maven</sub>
 
-## 🏅 Highlights
+## 💼 Experience snapshot
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="200 plus LeetCode problems" />
-  <img src="https://img.shields.io/badge/Amazon%20ML%20Summer%20School-2026%20Selection-146EB4?style=flat-square&logo=amazon&logoColor=white" alt="Amazon ML Summer School 2026 selection" />
-  <img src="https://img.shields.io/badge/Infosys-Agile%20Scrum%20in%20Practice-007CC3?style=flat-square" alt="Agile Scrum in Practice" />
-</p>
+| Where | What I worked on |
+|:--|:--|
+| **Modern Mint** · AI Automation & Systems Intern | Prompt-based automations, user research data, authentication and product features |
+| **Infosys Springboard** · Java Full Stack Intern | SiteSurvey Pro, 15+ REST APIs, Spring Security, JWT and role-based access |
 
-- Selected in the Amazon ML Summer School 2026 selection test among **31,821 candidates from 134,421 registrants**.
-- B.Tech CSE CGPA: **9.47/10**.
-- Leadership: **Cre8 Club In-Charge** and **IEEE Computer Society Student Chapter Treasurer**.
-
-## 📊 GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BharathiTech7&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathiTech7&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most-used programming languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=BharathiTech7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
-## 🐍 Contribution trail
+## 🏆 Proof points
 
 <div align="center">
 
-<!-- The snake image is generated by the included GitHub Actions workflow. -->
-<img src="https://raw.githubusercontent.com/BharathiTech7/BharathiTech7/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner" />
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="200 plus LeetCode problems" />
+<img src="https://img.shields.io/badge/Amazon%20ML%20Summer%20School-2026%20Selected-146EB4?style=for-the-badge&logo=amazon&logoColor=white" alt="Selected for Amazon ML Summer School 2026 selection test" />
 
 </div>
 
-## 🌱 Beyond the code
+## 📈 GitHub activity
 
-Outside of development, I enjoy helping create a collaborative learning environment through student tech communities. Being involved with Cre8 Club and the IEEE Computer Society has taught me that engineering grows faster when people share what they learn.
-
-## 🤝 Let's connect
-
-I'm always glad to connect with developers, recruiters, and teams building useful software. I'm looking for opportunities where I can contribute, learn from experienced engineers, and prove my ability through the work I do.
-
-<p align="center">
-  <a href="https://linkedin.com/in/doma-bharathi"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://domabharathi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
-</p>
+<div align="center">
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=BharathiTech7&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub overview statistics" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathiTech7&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages on GitHub" />
+</div>
 
 <div align="center">
 
-**Build with curiosity. Debug with patience. Improve with every iteration.**
+### Building toward the next challenge.
 
-<sub>Thanks for stopping by! ⭐ If something here interests you, feel free to explore the repositories.</sub>
+**Curious mind. Practical projects. Backend-first thinking.**
+
+<a href="https://linkedin.com/in/doma-bharathi">Connect on LinkedIn</a> · <a href="https://domabharathi.vercel.app">Explore my portfolio</a>
 
 </div>
