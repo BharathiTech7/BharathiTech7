@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1F,45:123B6D,100:06B6D4&height=190&section=header&text=Bharathi%20Reddy&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20in%20the%20Making&descSize=17&descAlignY=60" width="100%" alt="Bharathi Reddy — Backend Engineer in the Making" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1F,45:123B6D,100:06B6D4&height=190&section=header&text=Bharathi%20Reddy&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20in%20the%20Making&descSize=17&descAlignY=60" width="100%" alt="Bharathi Reddy — Full-Stack Developer" />
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot;Node.js+%2B+REST+APIs;Databases+%7C+Auth+%7C+Real-time+systems;Build.+Break.+Understand.+Rebuild." alt="Java and Spring Boot, Node.js and REST APIs, databases and real-time systems" />
